@@ -1,0 +1,10 @@
+Usage:
+node .<commands>
+To see explanations please write>node .
+To see all commands please write>node . help
+To add items please write > node . add <item>
+To  see all the items in a list  please write >node . list
+To  done with the itme please write > node . done <item>
+To  undone the item please write >node . undone <item>
+To delete the item please  write> node . del <item>
+if you are not sure what to do please visite our website www.gideSegid.com

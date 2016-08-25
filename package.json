@@ -1,0 +1,11 @@
+{
+  "name": "week2 task manager in nodejs",
+  "version": "6.3.1",
+  "description": "home work week2 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gide segid",
+  "license": "ISC"
+}
